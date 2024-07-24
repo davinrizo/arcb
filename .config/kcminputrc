@@ -1,0 +1,4 @@
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+XLbInptNaturalScroll=true
+XLbInptPointerAcceleration=-0.2

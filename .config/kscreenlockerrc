@@ -1,0 +1,4 @@
+[Daemon]
+LockGrace=0
+RequirePassword=false
+Timeout=30
